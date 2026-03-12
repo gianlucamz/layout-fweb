@@ -12,5 +12,13 @@
   "type": "commonjs",
   "devDependencies": {
     "tailwindcss": "^3.4.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianlucamz/layout-fweb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gianlucamz/layout-fweb/issues"
+  },
+  "homepage": "https://github.com/gianlucamz/layout-fweb#readme"
 }
